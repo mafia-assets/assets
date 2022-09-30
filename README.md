@@ -85,8 +85,6 @@ humpbackwhale
 
 japanesespidercrab
 
-lamprey
-
 leatherbackseaturtle
 
 leopardseal
