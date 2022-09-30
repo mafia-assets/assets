@@ -85,8 +85,6 @@ humpbackwhale
 
 japanesespidercrab
 
-jellyfish
-
 lamprey
 
 leatherbackseaturtle
