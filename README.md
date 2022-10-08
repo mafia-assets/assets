@@ -9,8 +9,6 @@ anglerfish
 
 archerfish
 
-axolotl
-
 barracuda
 
 barreleye
@@ -30,8 +28,6 @@ bobbitworm
 bowheadwhale
 
 bullfrog
-
-catfish
 
 bobbitworm
 
@@ -56,10 +52,6 @@ eleseal
 frilledshark
 
 frogfish
-
-isopod
-
-isopodclosed
 
 giantpacificocto
 
@@ -92,8 +84,6 @@ leopardseal
 lionfish
 
 lionmanejellyfish
-
-auk
 
 lobster
 
