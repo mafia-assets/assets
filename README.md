@@ -67,8 +67,6 @@ gulpereel
 
 halibut
 
-hermitcrab
-
 hippo
 
 humboldtsquid
@@ -132,8 +130,6 @@ seal
 sealion
 
 seaotter
-
-shrimp
 
 snake
 
