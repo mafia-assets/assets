@@ -11,8 +11,6 @@ archerfish
 
 barracuda
 
-barreleye
-
 baskingshark
 
 bat
@@ -122,10 +120,6 @@ pufferfishfilled
 ray
 
 sarcasticfringehead
-
-seagull
-
-seal
 
 sealion
 
