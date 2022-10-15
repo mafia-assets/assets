@@ -13,8 +13,6 @@ barracuda
 
 baskingshark
 
-bat
-
 beakedwhale
 
 beaver
@@ -40,8 +38,6 @@ cookiecuttershark
 dolphin
 
 dragonfish
-
-duck
 
 electriceel
 
