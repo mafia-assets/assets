@@ -131,8 +131,6 @@ sunfish
 
 hammerheadshark
 
-vampiresquid
-
 walrsus
 
 wobbegong
