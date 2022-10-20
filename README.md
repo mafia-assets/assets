@@ -103,17 +103,9 @@ octopus
 
 parrotfish
 
-pelican
-
 penguin
 
 polarbear
-
-pufferfish
-
-pufferfishfilled
-
-ray
 
 sarcasticfringehead
 
