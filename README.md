@@ -7,8 +7,6 @@ Official deeeep.io art assets for Mafia Assets.
 
 anglerfish  
 
-archerfish
-
 barracuda
 
 baskingshark
@@ -19,13 +17,7 @@ beaver
 
 belugawhale
 
-bobbitworm
-
 bowheadwhale
-
-bullfrog
-
-bobbitworm
 
 cococrab
 
@@ -100,8 +92,6 @@ narwhal
 oarfish
 
 octopus
-
-parrotfish
 
 penguin
 
